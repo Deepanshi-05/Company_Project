@@ -7,7 +7,12 @@ This project allows users to issue and return books, and admins to manage librar
 Developed as a company assignment to demonstrate basic CRUD operations and system flow.
 
 ---
+## 🌐 Live Demo
 
+You can access the live deployed project here:  
+https://library-management1-m3x9.onrender.com/studentclick
+
+---
 ## Features
 
 ### User
